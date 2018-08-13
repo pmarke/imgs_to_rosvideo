@@ -18,7 +18,7 @@ void ImgToVideo::ReadRosParameters() {
 
     // Image parameters
     nh_.param("img_type", img_type_,std::string("jpg"));
-    nh_.param("img_path", img_path_,std::string("~/Pictures/"));
+    nh_.param("img_path", img_path_,std::string("/home/user_name/Pictures/"));
     nh_.param("begin_img", begin_img_,0);
     nh_.param("end_img", end_img_,100);
     nh_.param("name_width", name_width_, 12);
