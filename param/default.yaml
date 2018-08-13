@@ -3,6 +3,7 @@ img_type: jpg
 img_path: /home/mark/Downloads/val2017/
 begin_img: 139
 end_img: 581482
+name_width: 12
 
 # Video parameters
 fps: 15
