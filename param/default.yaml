@@ -1,0 +1,12 @@
+# Image parameters
+img_type: jpg
+img_path: /home/mark/Downloads/val2017/
+begin_img: 139
+end_img: 581482
+
+# Video parameters
+fps: 15
+repeate: false
+resize: true
+rows: 480
+cols: 640
